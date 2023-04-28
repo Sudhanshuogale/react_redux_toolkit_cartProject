@@ -13,6 +13,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/cart" element={<Cart />} />
+        <h1>Sudhanshu</h1>
       </Routes>
       <Toaster />
     </BrowserRouter>
